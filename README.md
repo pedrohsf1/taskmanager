@@ -1,6 +1,6 @@
 # TaskManager
 
-TaskManagment e um sistema de gerenciamento de tarefas que permite criar,
+TaskManager e um sistema de gerenciamento de tarefas que permite criar,
 organizar e acompanhar as atividades da equipe.
 
 ## Funcionalidades
