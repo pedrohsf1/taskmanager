@@ -5,4 +5,9 @@ organizar e acompanhar as atividades da equipe.
 
 ## Funcionalidades
 
-- Nenhuma funcionalidade registrada ate o momento.
+- Conclusao de tarefas
+
+## Descricao da aplicacao
+
+Permite marcar uma tarefa como concluida, alterando seu status para
+"Concluida" e registrando a data de finalizacao.
