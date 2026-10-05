@@ -15,3 +15,7 @@ Permite marcar uma tarefa como concluida, alterando seu status para
 
 Permite classificar cada tarefa com um nivel de prioridade (Alta, Media ou
 Baixa) e ordenar a lista de tarefas por esse criterio.
+
+## Versao 1.0.0
+
+Release 1.0.0
